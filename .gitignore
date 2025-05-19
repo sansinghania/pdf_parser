@@ -1,0 +1,5 @@
+.DS_Store
+src/__pycache__/listPDFfiles.cpython-313.pyc
+src/__pycache__/pdf2xml_converter.cpython-313.pyc
+src/__pycache__/pdf2xml_util.cpython-313.pyc
+src/__pycache__/pdfconverter.cpython-313.pyc
