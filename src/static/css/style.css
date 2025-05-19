@@ -1,0 +1,69 @@
+.side-panel {
+	width: 20%;
+	float: left;
+}
+
+.container {
+	width: 80%;
+	float: right;
+}
+
+#main-viewer {
+	height: 800px;
+}
+
+
+.ss-section {
+	border-style: solid;
+	border-width: thin;
+	border-color: green;
+	background-color: LightGreen;
+}
+
+
+.ss-txtline {
+	border-style: solid;
+	border-width: thin;
+	border-color: red;
+}
+/*
+.ss-txtline:hover::after {
+  content: attr(midaxis);
+  position: absolute;
+  left: 0;
+  top: 10px;
+  min-width: 200px;
+  border: 1px #aaaaaa solid;
+  border-radius: 10px;
+  background-color: #ffffcc;
+  padding: 5px;
+  color: #000000;
+  font-size: 10px;
+  z-index: 1;
+}
+*/
+/*
+.ss-word {
+	background-color: yellow;
+	border-style: solid;
+	border-width: thin;
+	border-color: blue;
+}
+*/
+.ss-fragment {
+	background-color: #E9967A;
+	opacity: 0.5;
+	border-style: solid;
+	border-width: thin;
+	border-color: red;
+}
+
+.ss-segment {
+	border-style: solid;
+	border-width: thin;
+	border-color: blue;
+}
+
+.ss-word {
+	pointer-events: none;
+}
